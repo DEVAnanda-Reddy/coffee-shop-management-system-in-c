@@ -65,18 +65,7 @@ This mini-project was created as part of a C programming coursework or personal 
 3. Practice project for beginners learning structured programming in C
 4. Small console-based inventory/order simulator
 ---
-## 🙋‍♂️ Author
 
-### Devananda Reddy
-
-B.Tech Student | Passionate about Programming, Development and AI/ML
-
-Feel free to reach out, suggest improvements, or fork the project for your own experiments.
-
----
-## 🔗 GitHub Repository
-
-📁 https://github.com/DEVAnanda-Reddy/Coffee-House.git
 
 
 
